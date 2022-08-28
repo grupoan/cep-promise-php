@@ -1,5 +1,5 @@
 {
-    "name": "claudsonm/cep-promise-php",
+    "name": "grupoan/cep-promise-php",
     "description": "Busca por CEP utilizando Promises nos serviços dos Correios, ViaCEP, CepAberto e outros.",
     "keywords": ["promise", "cep", "correios", "viacep", "cepaberto", "cep aberto", "php"],
     "license": "MIT",
