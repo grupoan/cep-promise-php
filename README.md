@@ -4,7 +4,7 @@
 ![Packagist](https://img.shields.io/packagist/dt/claudsonm/cep-promise-php?style=flat-square)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-Um pacote agnóstico para PHP 7.0+ que efetua a busca de CEPs em diversos serviços utilizando [Promises/A+](https://promisesaplus.com/). 
+Um pacote agnóstico para PHP 8.0+ que efetua a busca de CEPs em diversos serviços utilizando [Promises/A+](https://promisesaplus.com/). 
 Inspirado no pacote [CEP Promise](https://github.com/filipedeschamps/cep-promise) 
 para Node.js e web browsers.
 
